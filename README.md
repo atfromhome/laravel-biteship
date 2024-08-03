@@ -3,7 +3,6 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/fromhome/laravel-biteship.svg?style=flat-square)](https://packagist.org/packages/fromhome/laravel-biteship)
 [![PHPUnit](https://github.com/atfromhome/laravel-biteship/actions/workflows/run-tests.yml/badge.svg?branch=main)](https://github.com/atfromhome/laravel-biteship/actions/workflows/run-tests.yml)
 [![Laravel Pint](https://github.com/atfromhome/laravel-biteship/actions/workflows/fix-php-code-style-issues.yml/badge.svg?branch=main)](https://github.com/atfromhome/laravel-biteship/actions/workflows/fix-php-code-style-issues.yml)
-[![Psalm](https://github.com/atfromhome/laravel-biteship/actions/workflows/run-psalm-static-analyst.yml/badge.svg?branch=main)](https://github.com/atfromhome/laravel-biteship/actions/workflows/run-psalm-static-analyst.yml)
 [![Total Downloads](https://img.shields.io/packagist/dt/fromhome/laravel-biteship.svg?style=flat-square)](https://packagist.org/packages/fromhome/laravel-biteship)
 
 This is where your description should go. Limit it to a paragraph or two. Consider adding a small example.
