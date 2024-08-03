@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace VendorName\Skeleton\Tests;
+namespace Fromhome\Biteship\Tests;
 
-final class SkeletonTest extends TestCase
+final class BiteshipTest extends TestCase
 {
     public function test_example(): void
     {

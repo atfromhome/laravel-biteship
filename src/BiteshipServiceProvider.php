@@ -1,11 +1,11 @@
 <?php
 
-namespace VendorName\Skeleton;
+namespace Fromhome\Biteship;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
 
-class SkeletonServiceProvider extends PackageServiceProvider
+class BiteshipServiceProvider extends PackageServiceProvider
 {
     public function configurePackage(Package $package): void
     {
@@ -15,8 +15,8 @@ class SkeletonServiceProvider extends PackageServiceProvider
          * More info: https://github.com/spatie/laravel-package-tools
          */
         $package
-            ->name('skeleton')
+            ->name('laravel-biteship')
             ->hasConfigFile()
-            ->hasMigration('create_package_slug_without_prefix_table');
+            ->hasMigration('create_biteship_table');
     }
 }

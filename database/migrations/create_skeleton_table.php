@@ -10,7 +10,7 @@ return new class extends Migration
 {
     public function up(): void
     {
-        Schema::create('migration_table_name_table', static function (Blueprint $table): void {
+        Schema::create('laravel_biteship_table', static function (Blueprint $table): void {
             $table->id();
 
             // add fields
