@@ -1,11 +1,13 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Fromhome\Biteship;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
 
-class BiteshipServiceProvider extends PackageServiceProvider
+final class BiteshipServiceProvider extends PackageServiceProvider
 {
     public function configurePackage(Package $package): void
     {
